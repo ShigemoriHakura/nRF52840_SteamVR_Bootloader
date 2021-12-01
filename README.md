@@ -10,6 +10,12 @@ Just another dirty hack
 * Bootloader.hex
 * BootloaderSettings.hex
 * Application.hex
+![image](https://raw.githubusercontent.com/ShigemoriHakura/nRF52840_SteamVR_Bootloader/main/PNG/1.png)
+
+# About SteamVR Application
+* 0x26000 - 0x5027F
+* Modify 3C48A and 3C4A6, and you will get your own dongle firmware
+![image](https://raw.githubusercontent.com/ShigemoriHakura/nRF52840_SteamVR_Bootloader/main/PNG/2.png)
 
 # Why build this?
 * Fun
