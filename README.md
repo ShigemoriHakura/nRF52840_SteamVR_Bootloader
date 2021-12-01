@@ -13,3 +13,7 @@ Just another dirty hack
 
 # Why build this?
 * Fun
+* Modify the application
+
+# Problems:
+* Serial is not the same as the steamvr dongle application, so the nrfutil inside steamvr folder cann't be used.
